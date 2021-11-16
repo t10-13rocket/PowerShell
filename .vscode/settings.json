@@ -36,5 +36,7 @@
   "powershell.codeFormatting.whitespaceAfterSeparator": true,
 
   // Omnisharp : Enable EditorConfig support
-  "omnisharp.enableEditorConfigSupport": true
+  "omnisharp.enableEditorConfigSupport": true,
+  "java.completion.enabled": false,
+  "java.debug.settings.enableRunDebugCodeLens": false
 }
